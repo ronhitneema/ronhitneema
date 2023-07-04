@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
- LinkedIn: [Link](https://www.linkedin.com/in/ronhit-neema-28478394/)  \\
- Substack: [Link] (https://ronhitn.substack.com/)
+ LinkedIn: [Link](https://www.linkedin.com/in/ronhit-neema-28478394/) 
+ Substack: [Link](https://ronhitn.substack.com/)
 
 
 # 💻 Tech Stack:
