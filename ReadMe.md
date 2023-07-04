@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ronhit-neema-28478394/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@https://medium.com/@ronhitn](https://ronhitn.substack.com/publish/posts)) 
+ LinkedIn: https://www.linkedin.com/in/ronhit-neema-28478394/
+ Substack: https://ronhitn.substack.com/
 
 
 # 💻 Tech Stack:
