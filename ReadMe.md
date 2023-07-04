@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently MSCS Student at Northeastern University, Boston<br>👯 I’m looking for Internships, Co-ops, and Fulltime roles in Software Development/Product Manager<br>🌱 I’m currently learning System Design, Machine Learning, and Advanced Data Structures<br>💬 Ask me about Software Development, Leadership, Communication Skills<br>⚡ Fun fact - I love exercising and staying in discipline with wok and life
+🔭 I’m currently MSCS Student at Northeastern University, Boston<br>👯 I’m looking for Internships, Co-ops, and full-time roles in Software Development/Product Manager<br>🌱 I’m currently learning System Design, Machine Learning, and Advanced Data Structures<br>💬 Ask me about Software Development, Leadership, Communication Skills<br>⚡ Fun fact - I love exercising and staying in discipline with work and life
 
 
 ## 🌐 Socials:
